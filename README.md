@@ -10,9 +10,10 @@
 - Go to, "FM Mods" > "Themes" > "Load theme" > Select the .xml file.
 - Theme is now successfully applied!
 
-> Works only in Dark Mode
-> Use at your own risk! 🙊
-
 ---
+
+> 🌃 Works only in Dark Mode
+
+> 🙊 Use at your own risk!
 
 Doubts? Reach me out [here](https://t.me/VinuXD).
