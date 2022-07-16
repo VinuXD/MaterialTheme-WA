@@ -2,7 +2,7 @@
 <map>
     <int name="ModChaSendBKColor" value="-15527149" />
     <int name="ModChatBubbleText" value="-2697514" />
-    <boolean name="disable_hiddenchat_access" value="true" />
+    <boolean name="disable_hiddenchat_access" value="false" />
     <boolean name="my_statusd" value="true" />
     <boolean name="imsHideVStatus" value="false" />
     <int name="emojipopup_icons" value="-12791919" />
@@ -73,6 +73,7 @@
     <int name="ModChatBtnColor" value="-2697514" />
     <int name="ModlastseenColor" value="-5526613" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="false" />
     <boolean name="ModChatLeftBubble_Gactive" value="false" />
     <int name="ModDarkConPickColorNav" value="-16777216" />
     <int name="ModChatColor_GCDir" value="1" />
@@ -137,7 +138,7 @@
     <boolean name="ModChatTextColor_Gactive" value="false" />
     <string name="ui_bottom_style">stock</string>
     <boolean name="ModConBackColor_Gactive" value="false" />
-    <boolean name="my_name" value="true" />
+    <boolean name="my_name" value="false" />
     <int name="pic_chat_size_pickerV2" value="40" />
     <boolean name="TxtSelect" value="true" />
     <int name="pagetitle_picker" value="-2697514" />
